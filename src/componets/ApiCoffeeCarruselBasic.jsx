@@ -22,8 +22,6 @@ export const ApiCoffeeCarruselBasic = () => {
 
   }, []);
 
-  console.log(coffeeList);
-
   return (
       <div className="container-fluid p-0">
       <div className="text-center mb-4">
